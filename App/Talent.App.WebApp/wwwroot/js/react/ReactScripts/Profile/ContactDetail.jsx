@@ -136,7 +136,7 @@ export class IndividualDetailSection extends Component {
                 </div>
             </div>
         )
-    }
+    }//comment
 }
 
 
